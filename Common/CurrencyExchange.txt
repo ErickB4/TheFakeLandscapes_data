@@ -1,6 +1,6 @@
 stars=25;diamonds=50
 diamonds=456;coins=123
-coins=0;diamonds=999999
+diamonds=999999;coins=0
 Lilly=1;diamonds=25
 Jewel=1;stars=10
 Vortex=1;diamonds=25
