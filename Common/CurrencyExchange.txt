@@ -1,5 +1,5 @@
 stars=25;diamonds=50
-diamonds=999999;coins=1
+diamonds=456;coins=123
 coins=100000;diamonds=0
 Lilly=1;diamonds=25
 Jewel=1;stars=10
