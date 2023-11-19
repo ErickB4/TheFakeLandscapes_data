@@ -11,7 +11,7 @@ gamma water pummel name - Wabdabuana (Raw asked tp add that here
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
 Monsters/Monster_mammott_young=Young Mammott
-Monsters/Monster_mammott_young_bio=The abominamble snowman? More like the adorable snowmons! Mammott isnt quite a boistrous master of "Bom"s but we're getting there. Meanwhile, Mammott prefers to eat food and fluff its fur. Typical. 
+Monsters/Monster_mammott_young_bio=guhhhh
 Monsters/Monster_tweedle_young=Young Tweedle
 Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
 Monsters/Monster_toejammer_young=Young Toe Jammer
