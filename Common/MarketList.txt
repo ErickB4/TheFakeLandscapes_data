@@ -124,10 +124,34 @@ monsters:
 Monsters/Monster_potbelly_young
 Monsters/Monster_mammott_young
 Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo
 Monsters/Monster_tweedle_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_young
+Monsters/Monster_kayna_young
+Monsters/Monster_kayna_young
+Monsters/Monster_kayna_young
 Monsters/Monster_kayna_young
 Monsters/Monster_theremind_meduza diamonds=10
 Monsters/Monster_fluoress_young coins=200
