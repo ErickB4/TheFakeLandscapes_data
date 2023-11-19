@@ -57,11 +57,12 @@ CostOverwrite=3,diamonds
 HasDeadline=true
 Deadline=06/19/2023 03:00:00 AM
 ;
-ID=Monsters/Monster_cranile
+ID=Monsters/Monster_dulsylvan_rare
 MarketSortersID=monsters
-IsIslandSpecific=false
+IsIslandSpecific=true
+Islands=EM
 ShowOldCost=false
 HasCostOvrwrite=true
 CostOverwrite=250,diamonds
 HasDeadline=true
-Deadline=11/20/2023 03:01:09 PM
+Deadline=11/30/2023 03:01:09 PM
