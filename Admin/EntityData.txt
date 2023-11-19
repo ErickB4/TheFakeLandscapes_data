@@ -66,10 +66,10 @@ Monsters/Monster_knucklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins
 Monsters/Monster_knucklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
 Monsters/Monster_potbelly_young coins=100 plant 300 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 4 0
-Monsters/Monster_toejammer_young coins=300 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
-Monsters/Monster_tweedle_young coins=750 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
-Monsters/Monster_mammott_young coins=250 cold 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
-Monsters/Monster_flootfly_young coins=30000 faerie 14400 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
+Monsters/Monster_toejammer_young diamonds=12345 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
+Monsters/Monster_tweedle_young diamonds=69420 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
+Monsters/Monster_mammott_young coins=0 plant@cold@air@water@earth 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
+Monsters/Monster_flootfly_young food=999999 faerie 14400 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
 Monsters/Monster_oaktopus_young diamonds=150 water@plant 28800 3 coins=1@80@coins=100 Natural oaktopus,oaktopus_young 4 0
 Monsters/Monster_dandidoo_young diamonds=150 air@plant 28800 3 coins=1@80@coins=100 Natural dandidoo_young,dandidoo_young 4 0
 Monsters/Monster_theremind_young coins=25000 psychic 14400 2 coins=1@120@coins=90 Magical theremind,theremind_young 6 0
