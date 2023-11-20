@@ -30,5 +30,5 @@ Structures/Structure_knottmaker3 0 BlueLog=20,Rock=20,Bone=20,Wool=40,Vortex=5 1
 Structures/Structure_knottmaker4 0 diamonds=25 10000
 ;
 ToeJammer Test
-Monsters/Monster_toejammer 0 coins=10000 10000
+Monsters/Monster_toejammer 0 Catfur=10,BloodCells=20,Bone=30,Log=25,Virus=5 10000
 Monsters/Monster_toejammer_rare 0 diamonds=100 1
