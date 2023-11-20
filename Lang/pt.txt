@@ -920,6 +920,8 @@ str_credits_trans_rus=Tradução para Russo:
 str_credits_trans_pr=Tradução para Português-Brasileiro:
 str_credits_thanks=Agradecimentos Especiais:
 str_credits_cityContest=Vencedores do Concurso:
+str_credits_tfl_by=T.F.L Por:
+str_credits_the_people=Galera Que Mexe No Sandbox:
 MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
