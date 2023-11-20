@@ -1,6 +1,10 @@
 <Title>str_credits_main
 Erickwub
   
+<Title>The people who messed everything up:
+Wubbox64
+MSMFlutter
+
 <Title>str_credits_execProd
 Azuran_SHadow
 
