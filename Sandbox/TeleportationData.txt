@@ -147,6 +147,7 @@ Monsters/Monster_rootitoot= 0
 Monsters/Monster_pummel= 0
 ;
 TI 86400 15
+Monsters/Monster_toejammer_young=Monsters/Monster_quibble_rare 15
 Monsters/Monster_quibble_young=Monsters/Monster_quibble 15
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 15
 Monsters/Monster_loodvigg=Monsters/Monster_loodvigg 1
