@@ -1,15 +1,15 @@
 -------
-WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the monsters you've bred or placed on this island, and they'll transform into the electrical energy required to take up this Wublin.
+WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the Monsters you've bred or placed on this Island, and they'll transform into the electrical energy required to take up this Wublin.
 
-DipsterBio=Timid in the light, Dipsters make their homes underground. The muffled monster music from above gives Dipsters the courage to rise and join the harmonious melody! ... although it may only be one note at a time. Dipsters are resourceful creatures, and collect natural materials to disguise the entrances to their tunnels. No one knows how far down a Dipster hole goes.
+DipsterBio=Timid in the light, Dipsters make their homes underground. The muffled Monster music from above gives Dipsters the courage to rise and join the harmonious melody! ... although it may only be one note at a time. Dipsters are resourceful creatures, and collect natural materials to disguise the entrances to their tunnels. No one knows how far down a Dipster hole goes.
 
-MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
+MonsterLockedBio=You haven't found this Monster yet. Play the game and unlock it later.
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
 
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
-Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
+Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other Monsterlings, Two times Zero is still Zero. 
 Monsters/Monster_mammott_young=Young Mammott
 Monsters/Monster_mammott_young_bio=guhhhh
 Monsters/Monster_tweedle_young=Young Tweedle
