@@ -182,4 +182,16 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+;
+dream:
+Monsters/Monster_cataliszt
+Monsters/Monster_mammott_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_deedge_dream
+Monsters/Monster_ghazt_dream
+Monsters/Monster_dragong_dream
+Monsters/VOIDCORN_dream
 
