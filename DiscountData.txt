@@ -1,4 +1,14 @@
 
+ID=Monsters/Monster_quibble_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=TI
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
 ID=Monsters/Monster_toejammer_rare
 MarketSortersID=monsters
 IsIslandSpecific=true
