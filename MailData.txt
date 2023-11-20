@@ -16,7 +16,7 @@ patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing n
 mpg;everyone;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
 
 
-MSMContent;everyone;To MSMContent;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_pango@1
+Wubbox64;everyone;To Wubbox64,;you suck. stop cheating you nitwit. ill be banning you in 5 minutes. - RawZebra;icon@gift;
 
 ContestWinner;everyone;Сергею;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
 ContestWinner2;everyone;Сергею;Поздравляю с победой в конкурсе! Сот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
