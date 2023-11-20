@@ -1,10 +1,10 @@
 <Title>str_credits_main
 Raw Zebra
 
-<Title>Tfl by:
+<Title>tfl_by
 Erickwub
   
-<Title>The people who messed everything up:
+<Title>the_people
 Wubbox64
 MSMFlutter
 
