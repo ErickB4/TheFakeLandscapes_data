@@ -1,7 +1,0 @@
-stars=25;diamonds=50
-diamonds=456;coins=123
-diamonds=999999;coins=0
-Lilly=1;diamonds=25
-Jewel=1;stars=10
-Vortex=1;diamonds=25
-Relic=1;diamonds=10

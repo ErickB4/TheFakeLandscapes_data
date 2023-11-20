@@ -1,13 +1,6 @@
 <Title>str_credits_main
 Raw Zebra
 
-<Title>str_credits_tfl_by
-Erickwub
-  
-<Title>str_credits_the_people
-Wubbox64
-MSMFlutter
-
 <Title>str_credits_execProd
 Azuran_SHadow
 

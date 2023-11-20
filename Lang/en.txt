@@ -11,7 +11,7 @@ gamma water pummel name - Wabdabuana (Raw asked tp add that here
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
 Monsters/Monster_mammott_young=Young Mammott
-Monsters/Monster_mammott_young_bio=guhhhh
+Monsters/Monster_mammott_young_bio=The abominamble snowman? More like the adorable snowmons! Mammott isnt quite a boistrous master of "Bom"s but we're getting there. Meanwhile, Mammott prefers to eat food and fluff its fur. Typical. 
 Monsters/Monster_tweedle_young=Young Tweedle
 Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
 Monsters/Monster_toejammer_young=Young Toe Jammer
@@ -253,8 +253,8 @@ Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known 
 Monsters/Monster_oaktopus_rare=Rare Oaktopus
 Monsters/Monster_oaktopus_rare_bio=Sporting a pair of handy appendages, Rare Oaktopus has taken up a long time dream of being a Chemist! This wooden wizard travels the realm searching for new ingredients, from the blood of a slumbering giant to the sap of a sugary paradise. Most recently, the Rare Oaktopus has discovered that if mixed in proper proportion to other ingridients, the water of a distant marsh had hallucinogenic effects when sipped; Fascinating! 
 
-Monsters/Monster_quibble_rare=Rare Quibble
-Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up – in fact, it's one of the few things the two heads can agree upon. Rare Quibbles, who naturally retain the short, stout beaks of their youth, really commit: they preen their crests into radical feather-dos and never replace the colorful keyboards they played as hatchlings. They do need to use beak extenders to reach the rocks... but whatever, man. Still totally hardcore.
+
+
 
 Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
@@ -1152,8 +1152,6 @@ str_credits_trans_rus=Russian Translation:
 str_credits_trans_pr=Portuguese Translation:
 str_credits_thanks=Special Thanks:
 str_credits_cityContest=Contest Winners:
-str_credits_tfl_by=T.F.L by:
-str_credits_the_people=The People Who Messed Everything Up:
 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
