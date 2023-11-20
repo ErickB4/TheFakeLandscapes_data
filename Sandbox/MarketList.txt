@@ -511,6 +511,7 @@ Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
+Monsters/Monster_treble
 -
 decorations:
 Decoration/Decoration_test
@@ -646,11 +647,11 @@ Decoration/Dog
 TI
 monsters:
 Monsters/Monster_quibble diamonds=400
-Monsters/Monster_quibble_rare Vortex=1
 Monsters/Monster_oaktopus diamonds=400
 Monsters/Monster_reedling_young_singer diamonds=600
 Monsters/Monster_loodvigg Vortex=1
 Monsters/Monster_spurrit Vortex=10
+Monsters/Monster_quibble_rare diamonds=400
 -
 decorations:
 Decoration/Decoration_test
@@ -672,6 +673,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_breeding
 -
 deco_paths:
 EM_path1
