@@ -649,6 +649,9 @@ Monsters/Monster_reedling_young_singer diamonds=600
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit Vortex=10
 -
+monster_rares:
+Monsters/Monster_quibble_rare
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
