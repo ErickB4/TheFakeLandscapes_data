@@ -22,6 +22,6 @@ ContestWinner;everyone;Сергею;Поздравляю с победой в к
 ContestWinner2;everyone;Сергею;Поздравляю с победой в конкурсе! Сот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
 
 
-TrollSpurrit;everyone;Troll Spurrit.\n\n;url@https://yt3.googleusercontent.com/fOHQ4RDywpV9oUM_h6YF1aRurGved8r7SXS89jqfKWddVxBpDwQ1Q5QwnpZxB6nQ-RLkryr0=s176-c-k-c0x00ffffff-no-rj@gift;Monsters/Monster_spurrit@1
+TrollSpurrit;everyone;Troll Spurrit;Troll Spurrit.;url@https://media.discordapp.net/attachments/1106377225776926720/1175969757183348878/1075945501188431872.png;Monsters/Monster_spurrit@1
 
 
