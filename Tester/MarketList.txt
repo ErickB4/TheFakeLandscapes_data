@@ -1,7 +1,7 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer diamonds=25
+Monsters/Monster_cranile diamonds=25
 Monsters/Monster_potbelly diamonds=25
 Monsters/Monster_tweedle diamonds=25
 Monsters/Monster_flootfly diamonds=25
