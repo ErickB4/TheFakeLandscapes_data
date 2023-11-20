@@ -124,27 +124,6 @@ monsters:
 Monsters/Monster_potbelly_young
 Monsters/Monster_mammott_young
 Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo
 Monsters/Monster_tweedle_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_toejammer_undof
@@ -667,9 +646,10 @@ Decoration/Dog
 TI
 monsters:
 Monsters/Monster_quibble diamonds=400
+Monsters/Monster_quibble_rare Vortex=1
 Monsters/Monster_oaktopus diamonds=400
 Monsters/Monster_reedling_young_singer diamonds=600
-Monsters/Monster_loodvigg
+Monsters/Monster_loodvigg Vortex=1
 Monsters/Monster_spurrit Vortex=10
 -
 decorations:
