@@ -1,10 +1,10 @@
 <Title>str_credits_main
 Raw Zebra
 
-<Title>tfl_by
+<Title>str_credits_tfl_by
 Erickwub
   
-<Title>the_people
+<Title>str_credits_the_people
 Wubbox64
 MSMFlutter
 
