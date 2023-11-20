@@ -598,8 +598,8 @@ Monsters/Monster_poewk Vortex=1
 Monsters/Monster_pixolotl Vortex=1
 -
 monster_rares:
-Monsters/Monster_varrow_rare
-Monsters/Monster_banno_rare
+Monsters/Monster_varrow_rare Vortex=5
+Monsters/Monster_banno_rare Vortex=10
 -
 decorations:
 Decoration/Decoration_test
