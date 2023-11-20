@@ -11,5 +11,4 @@ BlueLog=1;Log=3
 Log=3;BlueLog=1
 Wool=5;Fabric=1
 Fabric=1;Wool=5
-BloodCells=10;Virus=1
-Cattail_water=1;Wool=10
+Virus=1;BloodCells=10
