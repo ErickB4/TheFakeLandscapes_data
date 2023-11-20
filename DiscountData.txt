@@ -4,8 +4,8 @@ MarketSortersID=monsters
 IsIslandSpecific=true
 Islands=Calamity
 ShowOldCost=false
-HasCostOvrwrite=false
-CostOverwrite=5,Vortex
+HasCostOvrwrite=true
+CostOverwrite=5,vortex
 HasDeadline=true
 Deadline=11/14/2099 03:01:09 PM
 ;
@@ -14,8 +14,8 @@ MarketSortersID=monsters
 IsIslandSpecific=true
 Islands=Calamity
 ShowOldCost=false
-HasCostOvrwrite=false
-CostOverwrite=10,Vortex
+HasCostOvrwrite=true
+CostOverwrite=10,vortex
 HasDeadline=true
 Deadline=11/14/2099 03:01:09 PM
 ;
