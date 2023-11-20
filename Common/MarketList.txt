@@ -597,6 +597,10 @@ Monsters/Monster_blasoom
 Monsters/Monster_poewk Vortex=1
 Monsters/Monster_pixolotl Vortex=1
 -
+monster_rares:
+Monsters/Monster_varrow_rare Vortex=5
+Monsters/Monster_banno_rare Vortex=10
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1

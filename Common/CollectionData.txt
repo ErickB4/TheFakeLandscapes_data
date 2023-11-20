@@ -168,8 +168,10 @@ Monsters/Monster_treble
 Calamity:
 Monsters/Monster_stogg_undof
 Monsters/Monster_varrow
+Monsters/Monster_varrow_rare
 Monsters/Monster_boskus
 Monsters/Monster_banno
+Monsters/Monster_banno_rare
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
 Monsters/Monster_tiawa

@@ -1,4 +1,24 @@
 
+ID=Monsters/Monster_varrow_rare 
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Calamity
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=5,Vortex
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_banno_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Calamity
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=10,Vortex
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
 ID=Monsters/Monster_quibble_rare
 MarketSortersID=monsters
 IsIslandSpecific=true
