@@ -1152,7 +1152,7 @@ str_credits_trans_rus=Russian Translation:
 str_credits_trans_pr=Portuguese Translation:
 str_credits_thanks=Special Thanks:
 str_credits_cityContest=Contest Winners:
-str_credits_tfl_by=<color="blue">T.F.L by:</color>
+str_credits_tfl_by=T.F.L by:
 str_credits_the_people=The People Who Messed Everything Up:
 
 
