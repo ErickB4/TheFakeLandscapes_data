@@ -1,6 +1,6 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-intro3;everyone;Welcome to MSM:TFL!;Hey there! Welcome to MSM:TFL, a TLL Fan Server! Here are some goodies to get you started, enjoy! Hope You Like It, Happy Monstering, from Erickwub;url@https://cdn.discordapp.com/attachments/1152357233666048122/1175981178927456327/Icon.png;diamonds@500;foodB@100000
+intro3;everyone;Welcome to MSM:TFL!;Hey there! Welcome to MSM:TFL, a TLL Fan Server! Here are some goodies to get you started, enjoy! Hope you like it, Happy Monstering, from Erickwub;url@https://cdn.discordapp.com/attachments/1152357233666048122/1175981178927456327/Icon.png;diamonds@500;foodB@100000
 
 Rock;XZGcZYgQYgLcCkGpYTgZKEYaldVJQHKHZEUYRg;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
 
