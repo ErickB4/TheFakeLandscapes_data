@@ -17,8 +17,6 @@ Monsters/Monster_dulsylvan diamonds=100
 Monsters/Monster_banno diamonds=100
 Monsters/Monster_stoopa diamonds=250
 Monsters/Monster_maulch coins=25000
-Monsters/Monster_percFrog coins=1
-Monsters/Special/Monster_melochness coins=1
 -
 monster_secret:
 Monsters/Monster_percFrog
