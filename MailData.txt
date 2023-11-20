@@ -24,6 +24,6 @@ ContestWinner2;XZGcZYgQYgLcCkGpYTgZKEYaldVJQHKHZEUYRg;Сергею;Поздра�
 
 TrollSpurrit;everyone;Troll Spurrit;Troll Spurrit.;url@https://media.discordapp.net/attachments/1106377225776926720/1175969757183348878/1075945501188431872.png;Monsters/Monster_spurrit@1
 
-Flutter;UDBHMUReLAKBLLAVDaLQJCKgfaVSJRdPJa;A love letter for Flutter;Roses are red, violets are blue.. sugar is sweet, and so are you <3 - MJS;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
+Flutter;UDBHMUReLAKBLLAVDaLQJCKgfaVSJRdPJa;A love letter for Flutter;Roses are red, violets are blue.. sugar is sweet, and so are you <3 - MJS;icon@gift;
 
 
