@@ -503,6 +503,12 @@ Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
+Monsters/Monster_treble
+-
+monster_rares:
+Monsters/Monster_noggin_rare_undof
+Monsters/Monster_kayna_rare_undof
+Monsters/Monster_gumtromp_rare
 -
 decorations:
 Decoration/Decoration_test
