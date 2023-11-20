@@ -5,7 +5,7 @@ IsIslandSpecific=true
 Islands=Calamity
 ShowOldCost=false
 HasCostOvrwrite=true
-CostOverwrite=5,vortex
+CostOverwrite=125,diamonds
 HasDeadline=true
 Deadline=11/14/2099 03:01:09 PM
 ;
@@ -15,7 +15,7 @@ IsIslandSpecific=true
 Islands=Calamity
 ShowOldCost=false
 HasCostOvrwrite=true
-CostOverwrite=10,vortex
+CostOverwrite=250,diamonds
 HasDeadline=true
 Deadline=11/14/2099 03:01:09 PM
 ;
