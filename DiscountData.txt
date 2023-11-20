@@ -1,4 +1,84 @@
 
+ID=Monsters/Monster_toejammer_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_oaktopus_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_quibble_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_phangler_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_varrow_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_spunge_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_dulsylvan_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
+ID=Monsters/Monster_banno_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=false
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2099 03:01:09 PM
+;
 ID=Monsters/Monster_noggin_rare_undof
 MarketSortersID=monsters
 IsIslandSpecific=true
@@ -28,16 +108,6 @@ HasCostOvrwrite=false
 CostOverwrite=225,diamonds
 HasDeadline=true
 Deadline=11/14/2099 03:01:09 PM
-;
-ID=Monsters/Monster_dulsylvan_rare
-MarketSortersID=monsters
-IsIslandSpecific=true
-Islands=EM
-ShowOldCost=true
-HasCostOvrwrite=true
-CostOverwrite=250,diamonds
-HasDeadline=true
-Deadline=11/14/2023 03:01:09 PM
 ;
 ID=Monsters/Monster_varrow_rare
 MarketSortersID=monsters
