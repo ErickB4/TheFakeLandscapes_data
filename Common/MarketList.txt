@@ -650,7 +650,7 @@ Monsters/Monster_loodvigg
 Monsters/Monster_spurrit Vortex=10
 -
 monster_rares:
-Monsters/Monster_quibble_rare
+Monsters/Monster_quibble_rare diamonds=600
 -
 decorations:
 Decoration/Decoration_test
