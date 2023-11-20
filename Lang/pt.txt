@@ -59,6 +59,9 @@ Monsters/Monster_quibble_young_bio=O entusiasmo infinito de uma pequena picuinha
 Monsters/Monster_quibble=Picuinha
 Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
 
+Monsters/Monster_quibble_rare=Picuinha Raro
+Monsters/Monster_quibble_rare_bio=BIO PICUINHA RARO
+
 Monsters/Monster_oaktopus_young=Caravalho-Polvo Bebê
 Monsters/Monster_oaktopus_young_bio=Embora pareçam folhas no topo de uma árvore, as bolhas que adornam a coroa de uma muda de carvalho são mais parecidas com a espuma de água do fundo do mar! Embora distantes do Oceano Vivo em meio ao Mundo Perdido, os jovens Carvalho-Polvos ainda encontram uma maneira de se manterem úmidos, mesmo que isso signifique fuçar na Fonte do Matraca local.
 
