@@ -27,6 +27,8 @@ Monsters/Monster_phangler
 Monsters/Monster_phangler_rare
 Monsters/Monster_frondley
 Monsters/Monster_maulch
+Monsters/Special/Monster_melochness
+Monsters/Monster_percFrog
 ;
 City:
 Monsters/Monster_potbelly_young
@@ -113,6 +115,7 @@ Monsters/Monster_knurv
 TI:
 Monsters/Monster_reedling_young_singer
 Monsters/Monster_quibble
+Monsters/Monster_quibble_rare
 Monsters/Monster_oaktopus
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit
@@ -165,8 +168,10 @@ Monsters/Monster_treble
 Calamity:
 Monsters/Monster_stogg_undof
 Monsters/Monster_varrow
+Monsters/Monster_varrow_rare
 Monsters/Monster_boskus
 Monsters/Monster_banno
+Monsters/Monster_banno_rare
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
 Monsters/Monster_tiawa
@@ -179,4 +184,16 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+;
+dream:
+Monsters/Monster_cataliszt
+Monsters/Monster_mammott_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_deedge_dream
+Monsters/Monster_ghazt_dream
+Monsters/Monster_dragong_dream
+Monsters/VOIDCORN_dream
 
