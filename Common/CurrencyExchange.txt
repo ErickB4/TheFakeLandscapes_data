@@ -11,4 +11,3 @@ BlueLog=1;Log=3
 Log=3;BlueLog=1
 Wool=5;Fabric=1
 Fabric=1;Wool=5
-Virus=1;BloodCells=10
