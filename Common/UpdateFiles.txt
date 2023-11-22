@@ -1,6 +1,9 @@
 sdfghjkfgdfgfffffffffff3
 
-gm_test scene-d gm_test
+egyptpipes_scene scene-d EgpytPipes
+egyptpipes_audio audio-d EgpytPipes
+egyptpipes_entities entities-d Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
+egyptpipes_midi midi-d
 
 desert_midi midi
 desert_sound audio Desert
@@ -24,11 +27,6 @@ entities_dream entities-d Monster_dragong_dream@Monsters/Monster_dragong_dream;S
 monster_cataliszt entity-d Monsters/Monster_cataliszt
 dreamaudio2 audio-d dream
 dream midi-d
-
-egyptpipes_scene scene-d EgpytPipes
-egyptpipes_audio audio-d EgpytPipes
-egyptpipes_entities entities-d Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
-egyptpipes_midi midi-d
 
 eggs sprites-d eggs
 icons sprites-d icons
