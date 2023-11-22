@@ -26,13 +26,13 @@ monster_varrow_rare entity Monsters/Monster_varrow_rare_2
 
 monster_pango entity Monsters/Monster_pango_2
 
-desert_midi midi
+desert_midi midi Desert
 desert_sound audio Desert
 monster_trox entity Monsters/Monster_trox
 
 structure_jukebox entity Structures/Structure_jukebox_2
 
-desert_scene scene Desert2
+desert_scene scene-d Desert2
 ti_scene scene-d TI
 gm_scene scene-d GM
 
@@ -52,9 +52,9 @@ dreamaudio2 audio-d dream
 dream midi-d
 
 egyptpipes_scene scene-d Desert2
-egyptpipes_audio audio Desert2
+egyptpipes_audio audio-d Desert2
 egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
-egyptpipes_midi midi Desert2
+egyptpipes_midi midi-d Desert2
 
 eggs sprites-d eggs
 icons sprites-d icons
