@@ -1,5 +1,6 @@
 sdfghjkfgdfgfffffffffff3
 
+gm_test scene-d gm_test
 
 desert_midi midi
 desert_sound audio Desert
