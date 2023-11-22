@@ -1,6 +1,10 @@
 sdfghjkfgdfgfffffffffff79
 
-midi_update_test midi
+monster_denchuhs entity Monsters/Monster_denchuhs_2
+
+calamity_denchuhs_audio audio Calamity
+
+midi_update midi
 
 monster_banno_rare entity Monsters/Monster_banno_rare_2
 monster_varrow_rare entity Monsters/Monster_varrow_rare_2

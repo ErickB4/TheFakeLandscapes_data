@@ -22,16 +22,22 @@ Monsters/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 N
 Monsters/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
 Monsters/Monster_quibble_rare diamonds=80 water@air 57600 30 coins=2@80@coins=180 Natural-r quibble_rare,quibble_rare 0 0
 Monsters/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
+Monsters/Monster_varrow_rare_2 diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
 Monsters/Monster_spunge_rare diamonds=160 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
 Monsters/Monster_dulsylvan_rare diamonds=225 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
 Monsters/Monster_banno_rare diamonds=225 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
+Monsters/Monster_banno_rare_2 diamonds=225 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
 Monsters/Monster_phangler_rare diamonds=160 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 
 Monsters/Monster_denchuhs diamonds=60 water@bone 36000 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
 
+Monsters/Monster_denchuhs_2 diamonds=60 water@bone 36000 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
+
 Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural pango,pango 4 0
+
+Monsters/Monster_pango_2 diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural pango,pango 4 0
 
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
@@ -245,6 +251,7 @@ Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
 Structures/Structure_amalgamator diamonds=100 0 1
 Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
+Structures/Structure_jukebox_2 coins=1000 0 1
 Structures/Structure_jukebox_dream coins=10 0 1
 Structures/Structure_bass coins=100000 0 2
 
