@@ -30,11 +30,11 @@ monster_pango entity Monsters/Monster_pango_2
 
 desert_midi midi-d Desert
 desert_sound audio-d Desert
-monster_trox entity Monsters/Monster_trox
+monster_trox entity-d Monsters/Monster_trox
 
 structure_jukebox entity Structures/Structure_jukebox_2
 
-desert_scene scene Desert2
+desert_scene scene-d Desert2
 ti_scene scene-d TI
 gm_scene scene-d GM
 
