@@ -1,12 +1,14 @@
 sdfghjkfgdfgfffffffffff3
 
-egyptpipes_scene scene EgpytPipes
-egyptpipes_audio audio EgpytPipes
+Structure_jukebox entity Structures/Structure_jukebox
+
+egyptpipes_scene scene-d EgpytPipes
+egyptpipes_audio audio-d EgpytPipes
 egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
 egyptpipes_midi midi
 
-desert_midi midi
-desert_sound audio Desert
+desert_midi-d midi
+desert_sound audio-d Desert
 monster_trox entity Monsters/Monster_trox
 
 desert_scene scene-d Desert
