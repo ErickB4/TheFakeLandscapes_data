@@ -11,7 +11,7 @@ desert_scene scene-d Desert
 ti_scene scene-d TI
 gm_scene scene-d GM
 
-
+monster_quibblegm entity Monsters/Monster_quibblegm_2
 
 
 
