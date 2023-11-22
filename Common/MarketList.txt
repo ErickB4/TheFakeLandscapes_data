@@ -701,17 +701,14 @@ Decoration/Dog
 ;
 Desert
 monsters:
-Monsters/Bonapetite Vortex=1
-Monsters/Congle Vortex=1
-Monsters/Gnarls Vortex=1
-Monsters/Krillby Vortex=1
-Monsters/Pladdie Vortex=1
-Monsters/Buzzinga Vortex=1
-Monsters/Shlep Vortex=1
-Monsters/Scaratar Vortex=1
-Monsters/Loodvigg Vortex=1
-Monsters/Uuduk Vortex=1
-Monsters/Whimmzies Vortex=1
+Monsters/Monster_scaratar diamonds=3500
+Monsters/Monster_flootfly diamonds=75
+Monsters/Monster_furcorn diamonds=125
+Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_trox Vortex=3
+Monsters/Monster_spurrit_desert Vortex=4
+Monsters/Monster_bisonorus Vortex=1
+Monsters/Monster_bisonorus_2 Vortex=1
 -
 monster_rares:
 -
