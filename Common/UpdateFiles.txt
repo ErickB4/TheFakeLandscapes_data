@@ -4,6 +4,10 @@ monster_denchuhs entity Monsters/Monster_denchuhs_2
 
 calamity_denchuhs_audio audio Calamity
 
+monster_clamble entity Monsters/Monster_clamble_2
+
+calamity_audio audio Calamity
+
 midi_update midi
 
 monster_banno_rare entity Monsters/Monster_banno_rare_2

@@ -31,6 +31,8 @@ Monsters/Monster_phangler_rare diamonds=160 water@fire 72000 30 coins=2@80@coins
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 
+Monsters/Monster_clamble_2 diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
+
 Monsters/Monster_denchuhs diamonds=60 water@bone 36000 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
 
 Monsters/Monster_denchuhs_2 diamonds=60 water@bone 36000 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
