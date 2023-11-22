@@ -1,6 +1,6 @@
 sdfghjkfgdfgfffffffffff3
 
-Structure_jukebox entity Structures/Structure_jukebox
+Structure_jukebox entity Structures/Structure_jukebox2
 
 egyptpipes_scene scene-d EgpytPipes
 egyptpipes_audio audio-d EgpytPipes
