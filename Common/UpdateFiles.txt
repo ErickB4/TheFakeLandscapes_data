@@ -28,13 +28,8 @@ monster_varrow_rare entity Monsters/Monster_varrow_rare_2
 
 monster_pango entity Monsters/Monster_pango_2
 
-<<<<<<< HEAD
 desert_midi midi-d Desert
 desert_sound audio-d Desert
-=======
-desert_midi midi
-desert_sound audio Desert
->>>>>>> parent of a1f6998 (e)
 monster_trox entity Monsters/Monster_trox
 
 structure_jukebox entity Structures/Structure_jukebox_2
@@ -44,7 +39,6 @@ ti_scene scene-d TI
 gm_scene scene-d GM
 
 monster_quibblegm entity Monsters/Monster_quibblegm_2
-
 
 
 monster_clamble entity-d Monsters/Monster_clamble
@@ -59,15 +53,9 @@ dreamaudio2 audio-d dream
 dream midi-d
 
 egyptpipes_scene scene-d Desert2
-<<<<<<< HEAD
-egyptpipes_audio audio Desert
+egyptpipes_audio audio-d Desert
 egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
 egyptpipes_midi midi-d
-=======
-egyptpipes_audio audio Desert2
-egyptpipes_entities entities Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
-egyptpipes_midi midi Desert2
->>>>>>> parent of a1f6998 (e)
 
 eggs sprites-d eggs
 icons sprites-d icons
