@@ -1,5 +1,7 @@
 sdfghjkfgdfgfffffffffff85
 
+monster_bisonorus entity Monsters/Monster_bisonorus_2
+
 monster_deedge entity Monsters/Monster_deedge_2
 
 deedge entity Monsters/Monster_deedge_3

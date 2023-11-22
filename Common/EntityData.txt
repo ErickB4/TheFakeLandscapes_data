@@ -63,6 +63,8 @@ Monsters/Monster_maw_meduza diamonds=40 cold@water 28800 15 coins=1@80@coins=90 
 
 Monsters/Monster_bisonorus diamonds=130 air@plant@water@fire 79200 40 coins=1@28@coins=550 Natural bisonorus,bisonorus 6 0
 
+Monsters/Monster_bisonorus_2 diamonds=130 air@plant@water@fire 79200 40 coins=1@28@coins=550 Natural bisonorus,bisonorus 6 0
+
 Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 
