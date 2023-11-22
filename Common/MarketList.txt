@@ -984,18 +984,24 @@ Monsters/Monster_stogg_undof
 Monsters/Monster_varrow Vortex=1
 Monsters/Monster_boskus Vortex=1
 Monsters/Monster_pango Vortex=1
+Monsters/Monster_pango_2 Vortex=1
 Monsters/Monster_denchuhs Vortex=1
+Monsters/Monster_denchuhs_2 Vortex=1
 Monsters/Monster_banno Vortex=1
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel Vortex=1
 Monsters/Monster_clamble Vortex=1
+Monsters/Monster_clamble_2 Vortex=1
 Monsters/Monster_deedge Vortex=1
+Monsters/Monster_deedge_2 Vortex=1
+Monsters/Monster_deedge_3 Vortex=1
 Monsters/Monster_tiawa Vortex=1
 Monsters/Monster_arackulele Vortex=1
 Monsters/Monster_punkleton
 Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
 Monsters/Monster_poewk Vortex=1
+Monsters/Monster_poewk_2 Vortex=1
 Monsters/Monster_pixolotl Vortex=1
 -
 decorations:
