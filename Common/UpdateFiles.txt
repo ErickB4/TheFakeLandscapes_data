@@ -1,6 +1,8 @@
-sdfghjkfgdfgfffffffffff82
+sdfghjkfgdfgfffffffffff85
 
 monster_deedge entity Monsters/Monster_deedge_2
+
+deedge entity Monsters/Monster_deedge_3
 
 calamity_audio audio Calamity
 calamity_deedge audio Calamity
