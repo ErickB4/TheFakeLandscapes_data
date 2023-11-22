@@ -1,5 +1,4 @@
 sdfghjkfgdfgfffffffffff20
-
 structure_jukebox entity Structures/Structure_jukebox2
 
 egyptpipes_scene scene-d EgpytPipes
