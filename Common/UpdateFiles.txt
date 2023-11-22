@@ -1,5 +1,6 @@
 sdfghjkfgdfgfffffffffff79
 
+monster_pango entity Monsters/Monster_pango_2
 
 desert_midi midi
 desert_sound audio Desert
