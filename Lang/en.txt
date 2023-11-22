@@ -139,6 +139,8 @@ Monsters/Monster_trox_bio=T-Rox bio
 #ADULT OFFICIAL QUADS#
 Monsters/Monster_deedge=Deedge
 Monsters/Monster_deedge_bio=Deedge bio
+Monsters/Monster_deedge_2=Beta Deedge
+Monsters/Monster_deedge_2_bio=Beta Deedge From Older versions.
 Monsters/Monster_pongping=PongPing
 Monsters/Monster_pongping_bio=PongPing bio
 Monsters/Monster_tiawa=Tiawa
@@ -232,6 +234,8 @@ Monsters/Monster_poewk=Poewk
 Monsters/Monster_poewk_bio=Poewk bio
 Monsters/Monster_poewk_awake=Poewk
 Monsters/Monster_poewk_awake_bio=Poewk awake bio
+Monsters/Monster_poewk_2=Beta Poewk
+Monsters/Monster_poewk_2_bio=Beta Poewk From Older versions.
 
 Monsters/Monster_fleechwurm_undof=Fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
