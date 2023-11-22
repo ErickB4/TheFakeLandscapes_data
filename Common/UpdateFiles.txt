@@ -4,8 +4,6 @@ monster_bisonorus entity Monsters/Monster_bisonorus_2
 
 monster_deedge entity Monsters/Monster_deedge_2
 
-deedge entity Monsters/Monster_deedge_3
-
 calamity_audio audio Calamity
 calamity_deedge audio Calamity
 
