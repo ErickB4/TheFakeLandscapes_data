@@ -1,6 +1,9 @@
 sdfghjkfgdfgfffffffffff81
 
-monster_boskus entity Monsters/Monster_boskus_2
+monster_poewk entity Monsters/Monster_poewk_2
+
+calamity_audio audio Calamity
+calamity_poewk_sounds audio Calamity
 
 monster_denchuhs entity Monsters/Monster_denchuhs_2
 

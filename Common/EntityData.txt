@@ -183,6 +183,8 @@ Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,st
 
 Monsters/Monster_poewk coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 3
 
+Monsters/Monster_poewk_2 coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 3
+
 Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 3
 
 Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Fleechwurm-o 0 3
