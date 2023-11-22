@@ -1,5 +1,7 @@
 sdfghjkfgdfgfffffffffff79
 
+midi_update_test midi
+
 monster_banno_rare entity Monsters/Monster_banno_rare_2
 monster_varrow_rare entity Monsters/Monster_varrow_rare_2
 
