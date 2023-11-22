@@ -1,8 +1,12 @@
-sdfghjkfgdfgfffffffffff81
+sdfghjkfgdfgfffffffffff82
+
+monster_deedge entity Monsters/Monster_deedge_2
+
+calamity_audio audio Calamity
+calamity_deedge audio Calamity
 
 monster_poewk entity Monsters/Monster_poewk_2
 
-calamity_audio audio Calamity
 calamity_poewk_sounds audio Calamity
 
 monster_denchuhs entity Monsters/Monster_denchuhs_2
