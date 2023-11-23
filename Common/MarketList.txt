@@ -1044,6 +1044,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_breeding
 Structures/Structure_crafter
 Structures/Structure_bakery
 -
