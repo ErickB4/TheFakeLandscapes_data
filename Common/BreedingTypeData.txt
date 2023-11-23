@@ -15,5 +15,6 @@ Candy:
 N
 ;
 Calamity:
-N
+Shugabush
+DEF R
 
