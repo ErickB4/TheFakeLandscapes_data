@@ -1,12 +1,12 @@
-City 0
-EM 0
-Candy 4
-Knottshurr 10
-Desert 15
-Meduza 20
-Calamity 20
-Organs 20
-GM 20
-TI 0
-dream 0
-EgyptPipes 0
+City 0 Complete z
+EM 0 Complete z
+Candy 4 Complete NoZeppelin
+Knottshurr 10 Complete NoZeppelin
+Organs 12 Complete z
+Desert 10 Complete z
+Calamity 20 Complete z
+GM 15 Incomplete z
+TI 0 Incomplete z
+Meduza 25 Incomplete NoZeppelin
+dream 0 Complete z
+EgyptPipes 0 Complete NoZeppelin
