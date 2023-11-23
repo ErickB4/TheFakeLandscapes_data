@@ -133,6 +133,8 @@ Monsters/Monster_noggin_meduza= 0
 Monsters/Monster_pummel_meduza= 0
 ;
 Calamity 86400 17
+Monsters/Monster_varrow=Monsters/Monster_varrow 20
+Monsters/Monster_banno=Monsters/Monster_banno 20
 Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 20
 Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 20
 Monsters/Monster_pummel_young=Monsters/Monster_pummel 20

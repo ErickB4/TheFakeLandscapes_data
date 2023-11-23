@@ -13,8 +13,5 @@ Monsters/Monster_handmond_rare L
 ;
 Candy:
 N
-;
-Calamity:
-Shugabush
-DEF R
+
 
