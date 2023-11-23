@@ -24,7 +24,7 @@ Flower_blue=25
 Flower_red=25
 Log=50
 Mushroom_2=10
-ITM_grain=10
+ITM_Grain=10
 ;
 Calamity: 1
 diamonds=50

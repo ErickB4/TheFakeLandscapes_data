@@ -1,15 +1,12 @@
-City 0 Complete
-EM 0 Complete
-Candy 4 Complete
-Knottshurr 10 Complete
-Desert 15 Complete
-Meduza 20 Incomplete
-Calamity 20 Complete
-Organs 20 Complete
-GM 20 Incomplete
-TI 0 Incomplete
-dream 0 Complete
-Minigame_Thumpies 0 Complete
-Minigame_stacking 0 Complete
-Minigame_Simon 0 Complete
-Stargazer 0 Complete
+City 0
+EM 0
+Candy 4
+Knottshurr 10
+Desert 15
+Meduza 20
+Calamity 20
+Organs 20
+GM 20
+TI 0
+dream 0
+EgyptPipes 0
