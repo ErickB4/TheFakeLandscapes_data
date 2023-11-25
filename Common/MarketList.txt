@@ -1,22 +1,7 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer diamonds=25
-Monsters/Monster_potbelly diamonds=25
-Monsters/Monster_tweedle diamonds=25
-Monsters/Monster_flootfly diamonds=25
-Monsters/Monster_oaktopus diamonds=50
-Monsters/Monster_dandidoo diamonds=50
-Monsters/Monster_likho diamonds=75
-Monsters/Monster_wadee diamonds=75
-Monsters/Monster_varrow diamonds=75
-Monsters/Monster_quibble diamonds=50
-Monsters/Monster_spunge diamonds=90
-Monsters/Monster_choral diamonds=100
-Monsters/Monster_dulsylvan diamonds=100
-Monsters/Monster_banno diamonds=100
-Monsters/Monster_stoopa diamonds=250
-Monsters/Monster_maulch coins=25000
+Monsters/Monster_skibidiToilet
 -
 monster_secret:
 Monsters/Monster_percFrog
