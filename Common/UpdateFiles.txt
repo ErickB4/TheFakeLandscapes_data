@@ -1,4 +1,10 @@
-sdfghjkfgdfgfffffffffff85
+candyuhidk12
+
+monster_wubbox_undof entity Monsters/Monster_wubbox_undof_2
+
+monster_noggin_rare_undof entity Monsters/Monster_noggin_rare_undof_2
+
+monster_knife entity Monsters/Monster_knife_2
 
 monster_bisonorus entity Monsters/Monster_bisonorus_2
 
