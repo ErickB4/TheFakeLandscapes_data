@@ -7,9 +7,6 @@ MonsterLockedBio=You haven't found this Monster yet. Play the game and unlock it
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
 
-Monsters/Monster_skibidiToilet=skibidi Toilet
-Monsters/Monster_skibidiToilet_bio=Sticking out your Yap for the Handmond
-
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other Monsterlings, Two times Zero is still Zero. 
@@ -960,9 +957,6 @@ str_island_EgyptPipes=Youtube only (Don't edit)
 
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
-
-str_island_ohio=Ohio Island
-str_island_ohio_bio=Sticking out your Yap for the Handmond
 
 str_island_lvl=Lvl <lvl>
 
