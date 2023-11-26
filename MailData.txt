@@ -8,9 +8,6 @@ test_hahahhaha;XZGcZYgQYgLcCkGpYTgZKEYaldVJQHKHZEUYRg;Test;test;icon@gift;URL_LI
 
 ToVizgemuAgain;XZGcZYgQYgLcCkGpYTgZKEYaldVJQHKHZEUYRg;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10
 
-smee52;UDBHMUReLAKBLLAVDaLQJCKgfaVSJRdPJa;Level Reset;If your level goes above 25 and just reads "Level" or Level 26 your game breaks. If this happened to you collect this, otherwise do not. Do not go above level 24 in the future. ;icon@live;LVL@-10
-
-
 patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
 
 mpg;XZGcZYgQYgLcCkGpYTgZKEYaldVJQHKHZEUYRg;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
