@@ -1,5 +1,7 @@
 candyuhidk12
 
+monster_young_yool entity Monsters/monster_young_yool
+
 monster_wubbox_undof entity Monsters/Monster_wubbox_undof_2
 
 monster_noggin_rare_undof entity Monsters/Monster_noggin_rare_undof_2
