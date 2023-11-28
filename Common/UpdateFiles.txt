@@ -1,6 +1,6 @@
 candyuhidk12
 
-monster_young_yool entity Monsters/monster_young_yool
+monster_young_yool entity Monsters/Monster_yool
 
 monster_wubbox_undof entity Monsters/Monster_wubbox_undof_2
 
