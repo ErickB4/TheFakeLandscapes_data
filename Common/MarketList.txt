@@ -195,6 +195,7 @@ Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
 Monsters/Monster_punkleton_young
+Monsters/Monster_yool
 -
 monsters_celestials:
 Monsters/Monster_hornacle
