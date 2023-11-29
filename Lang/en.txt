@@ -69,8 +69,8 @@ Monsters/Monster_gloptic_young_bio=Young Gloptic bio
 #BABY SEASONALS#
 Monsters/Monster_punkleton_young=Young Punkleton
 Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the Floating City, enchanted by the harvest moon. The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
-
-
+Monsters/Monster_yool=Young Yool
+Monsters/Monster_yool_bio=Young Yool bio
 
 #ADULT OFFICIAL SINGLES#
 Monsters/Monster_potbelly=Potbelly
