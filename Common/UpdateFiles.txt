@@ -1,5 +1,7 @@
 candyuhidk12
 
+monster_rarepot entity Monsters/Monster_rarepot
+
 monster_load entity Monsters/Monster_load
 
 monster_young_yool entity Monsters/Monster_yool
