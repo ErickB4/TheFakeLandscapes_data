@@ -1,5 +1,7 @@
 candyuhidk12
 
+monster_test entity monster_test
+
 monster_rarepot entity Monsters/Monster_rarepot
 
 monster_load entity Monsters/Monster_load
