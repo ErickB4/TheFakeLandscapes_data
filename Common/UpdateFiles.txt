@@ -1,6 +1,8 @@
 candyuhidk12
 
-monster_test entity monster_test
+monster_spurrit_desert entity Monsters/Monster_spurrit2
+
+monster_test entity Monsters/Monster_test
 
 monster_rarepot entity Monsters/Monster_rarepot
 
