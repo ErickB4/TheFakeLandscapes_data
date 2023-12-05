@@ -1,7 +1,5 @@
 candyuhidk12
 
-monster_spurrit_desert entity-d Monsters/Monster_spurrit2
-
 monster_test entity Monsters/Monster_test
 
 monster_rarepot entity Monsters/Monster_rarepot
@@ -48,7 +46,6 @@ desert_midi midi-d Desert
 desert_sound audio-d Desert
 monster_trox entity-d Monsters/Monster_trox
 
-structure_jukebox entity-d Structures/Structure_jukebox_2
 
 desert_scene scene-d Desert2
 ti_scene scene-d TI
