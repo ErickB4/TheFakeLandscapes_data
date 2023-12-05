@@ -48,7 +48,7 @@ desert_midi midi-d Desert
 desert_sound audio-d Desert
 monster_trox entity-d Monsters/Monster_trox
 
-structure_jukebox entity Structures/Structure_jukebox_2
+structure_jukebox entity-d Structures/Structure_jukebox_2
 
 desert_scene scene-d Desert2
 ti_scene scene-d TI
