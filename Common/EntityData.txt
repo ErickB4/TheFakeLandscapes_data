@@ -251,40 +251,40 @@ Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dip
 Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
 Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
-Structures/Structure_breeding coins=500,diamonds=75 4 2
-Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
-Structures/Structure_breeding_undof coins=0,diamonds=40 0 2
-Structures/Structure_breeding_undof2 coins=0,diamonds=60 0 2
-Structures/Structure_breeding_undof3 coins=0,diamonds=1000 0 2
+Structures/Structure_breeding coins=500,diamonds=75 4 100
+Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 100
+Structures/Structure_breeding_undof coins=0,diamonds=40 0 100
+Structures/Structure_breeding_undof2 coins=0,diamonds=60 0 100
+Structures/Structure_breeding_undof3 coins=0,diamonds=1000 0 100
 
-Structures/Structure_castle_undof coins=0 0 1
-Structures/Structure_castle_undof1 coins=0 0 1
-Structures/Structure_castle_undof2 coins=0 0 1
-Structures/Structure_castle_undof3 coins=0 0 1
-Structures/Structure_castle_undof4 coins=0 0 1
-Structures/Structure_castle_undof5 coins=0 0 1
-Structures/Structure_castle_undof6 coins=0 0 1
+Structures/Structure_castle_undof coins=0 0 100
+Structures/Structure_castle_undof1 coins=0 0 100
+Structures/Structure_castle_undof2 coins=0 0 100
+Structures/Structure_castle_undof3 coins=0 0 100
+Structures/Structure_castle_undof4 coins=0 0 100
+Structures/Structure_castle_undof5 coins=0 0 100
+Structures/Structure_castle_undof6 coins=0 0 100
 
-Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
-Structures/Structure_amalgamator diamonds=100 0 1
-Structures/Structure_amalgamator_city coins=10000 0 1
-Structures/Structure_jukebox coins=1000 0 1
-Structures/Structure_jukebox_2 coins=1000 0 1
-Structures/Structure_jukebox_dream coins=10 0 1
-Structures/Structure_bass coins=100000 0 2
+Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 100
+Structures/Structure_amalgamator diamonds=100 0 100
+Structures/Structure_amalgamator_city coins=10000 0 100
+Structures/Structure_jukebox coins=1000 0 100
+Structures/Structure_jukebox_2 coins=1000 0 100
+Structures/Structure_jukebox_dream coins=10 0 100
+Structures/Structure_bass coins=100000 0 100
 
-Structures/Structure_masher coins=0,diamonds=1000 3 2
-Structures/Structure_crafter coins=50000 3 1
+Structures/Structure_masher coins=0,diamonds=1000 3 100
+Structures/Structure_crafter coins=50000 3 100
 
-Structures/Structure_knottmaker1 coins=100000 0 0
-Structures/Structure_knottmaker2 coins=100000 0 0
-Structures/Structure_knottmaker3 coins=100000 0 0
-Structures/Structure_knottmaker4 coins=100000 0 0
+Structures/Structure_knottmaker1 coins=100000 0 100
+Structures/Structure_knottmaker2 coins=100000 0 100
+Structures/Structure_knottmaker3 coins=100000 0 100
+Structures/Structure_knottmaker4 coins=100000 0 100
 
 
-Structures/Structure_timemachine coins=100 0 1
+Structures/Structure_timemachine coins=100 0 100
 
-Structures/Structure_stargazer coins=1 0 0
+Structures/Structure_stargazer coins=1 0 100
 
 
 Desert_path1 coins=100 0 0

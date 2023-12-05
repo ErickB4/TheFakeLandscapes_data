@@ -2,35 +2,36 @@
 EM
 monsters:
 Monsters/Monster_toejammer diamonds=25
+Monsters/Monster_toejammer_rare
 Monsters/Monster_potbelly diamonds=25
 Monsters/Monster_tweedle diamonds=25
 Monsters/Monster_flootfly diamonds=25
 Monsters/Monster_oaktopus diamonds=50
+Monsters/Monster_oaktopus_rare
 Monsters/Monster_dandidoo diamonds=50
+Monsters/Monster_phangler
+Monsters/Monster_phangler_rare
 Monsters/Monster_likho diamonds=75
 Monsters/Monster_wadee diamonds=75
+Monsters/Monster_bridgit
 Monsters/Monster_varrow diamonds=75
+Monsters/Monster_varrow_rare
 Monsters/Monster_quibble diamonds=50
+Monsters/Monster_quibble_rare
 Monsters/Monster_spunge diamonds=90
+Monsters/Monster_spunge_rare
 Monsters/Monster_choral diamonds=100
+Monsters/Monster_frondley
 Monsters/Monster_dulsylvan diamonds=100
+Monsters/Monster_dulsylvan_rare
 Monsters/Monster_banno diamonds=100
+Monsters/Monster_banno_rare
 Monsters/Monster_stoopa diamonds=250
 Monsters/Monster_maulch coins=25000
--
-monster_secret:
-Monsters/Monster_percFrog
+Monsters/Monster_percFrog coins=1
 Monsters/Special/Monster_melochness
 -
 monster_rares:
-Monsters/Monster_toejammer_rare
-Monsters/Monster_oaktopus_rare
-Monsters/Monster_quibble_rare
-Monsters/Monster_varrow_rare
-Monsters/Monster_spunge_rare
-Monsters/Monster_dulsylvan_rare
-Monsters/Monster_banno_rare
-Monsters/Monster_phangler_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -73,9 +74,32 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
-Structures/Structure_crafter
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
 Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -195,7 +219,7 @@ Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
 Monsters/Monster_punkleton_young
-Monsters/Monster_yool
+Monsters/Monster_percFrog coins=1
 -
 monsters_celestials:
 Monsters/Monster_hornacle
@@ -255,9 +279,33 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_masher
+Structures/Structure_breeding
 Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
+Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -417,7 +465,33 @@ Decoration/Obstacle_placable_Knott_9
 Decoration/Obstacle_placable_Knott_10
 -
 structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -471,6 +545,7 @@ Monsters/Monster_handmond coins=10000
 Monsters/Monster_whimstlop diamonds=150
 Monsters/Monster_theremind diamonds=80
 Monsters/Monster_oaktopus diamonds=100
+Monsters/Monster_oaktopus_rare
 Monsters/Monster_boskus diamonds=100
 Monsters/Monster_cybop diamonds=100
 Monsters/Monster_denchuhs diamonds=120
@@ -481,9 +556,9 @@ Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro diamonds=4000
 Monsters/Monster_wheezel_rock diamonds=30
 Monsters/Monster_knurv_rock diamonds=40
+Monsters/Monster_percFrog coins=1
 -
 monster_rares:
-Monsters/Monster_oaktopus_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -526,8 +601,32 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
-Structures/Structure_crafter
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -587,6 +686,7 @@ Monsters/Monster_pummel_meduza diamonds=10
 Monsters/Monster_pongping_meduza diamonds=10
 Monsters/Monster_whimstlop_meduza diamonds=10
 Monsters/Monster_meduza diamonds=60
+Monsters/Monster_percFrog coins=1
 -
 decorations:
 Decoration/Decoration_test
@@ -628,7 +728,33 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
+Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -711,6 +837,7 @@ Monsters/Monster_spurrit_desert Vortex=4
 Monsters/Monster_spurrit2 Vortex=4
 Monsters/Monster_bisonorus Vortex=1
 Monsters/Monster_bisonorus_2 Vortex=1
+Monsters/Monster_percFrog coins=1
 -
 monster_rares:
 -
@@ -754,9 +881,34 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_crafter
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
-
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -832,8 +984,11 @@ Candy
 monsters:
 Monsters/Monster_toejammer_undof
 Monsters/Monster_noggin_undof
+Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kayna_undof
+Monsters/Monster_kayna_rare_undof
 Monsters/Monster_gumtromp
+Monsters/Monster_gumtromp_rare
 Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
@@ -860,11 +1015,9 @@ Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
 Monsters/Monster_treble
+Monsters/Monster_percFrog coins=1
 -
 monster_rares:
-Monsters/Monster_noggin_rare_undof
-Monsters/Monster_kayna_rare_undof
-Monsters/Monster_gumtromp_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -906,10 +1059,34 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
 Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -1005,6 +1182,7 @@ Monsters/Monster_blasoom
 Monsters/Monster_poewk Vortex=1
 Monsters/Monster_poewk_2 Vortex=1
 Monsters/Monster_pixolotl Vortex=1
+Monsters/Monster_percFrog coins=1
 -
 decorations:
 Decoration/Decoration_test
@@ -1046,8 +1224,34 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_crafter
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -1122,13 +1326,14 @@ Decoration/Dog
 TI
 monsters:
 Monsters/Monster_quibble diamonds=400
+Monsters/Monster_quibble_rare diamonds=600
 Monsters/Monster_oaktopus diamonds=400
 Monsters/Monster_reedling_young_singer diamonds=600
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit Vortex=10
+Monsters/Monster_percFrog coins=1
 -
 monster_rares:
-Monsters/Monster_quibble_rare diamonds=600
 -
 decorations:
 Decoration/Decoration_test
@@ -1170,8 +1375,34 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-Structures/Structure_crafter
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
 Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
@@ -1246,21 +1477,9 @@ Decoration/Dog
 dream
 monsters:
 Monsters/Monster_cataliszt diamonds=50
-Structures/Structure_jukebox_dream coins=3070
+Monsters/Monster_percFrog coins=1
 -
-monsters2:
-Monsters/Monster_mammott_dream
-Monsters/Monster_toejammer_dream
-Monsters/Monster_likho_dream
-Monsters/Monster_stogg_dream
-Monsters/Monster_quibble_dream
-Monsters/Monster_deedge_dream
-;
-GM
-monsters:
-Monsters/Monster_olga diamonds=1000
-Monsters/Monster_potbellyGM diamonds=1000
-Monsters/Monster_quibbleGM Jewel=10 diamonds=1000
+monster_rares:
 -
 decorations:
 Decoration/Decoration_test
@@ -1302,7 +1521,117 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
+Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
 Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
+-
+monsters2:
+Monsters/Monster_mammott_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_deedge_dream
+;
+GM
+monsters:
+Monsters/Monster_olga diamonds=1000
+Monsters/Monster_potbellyGM diamonds=1000
+Monsters/Monster_quibbleGM Jewel=10 diamonds=1000
+Monsters/Monster_percFrog coins=1
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Obstacle_placable_EM_1
+Decoration/Obstacle_placable_EM_2
+Decoration/Obstacle_placable_EM_3
+Decoration/Obstacle_placable_EM_4
+Decoration/Obstacle_placable_EM_5
+Decoration/Obstacle_placable_EM_6
+Decoration/Obstacle_placable_Knott_1
+Decoration/Obstacle_placable_Knott_2
+Decoration/Obstacle_placable_Knott_3
+Decoration/Obstacle_placable_Knott_4
+Decoration/Obstacle_placable_Knott_5
+Decoration/Obstacle_placable_Knott_6
+Decoration/Obstacle_placable_Knott_7
+Decoration/Obstacle_placable_Knott_8
+Decoration/Obstacle_placable_Knott_9
+Decoration/Obstacle_placable_Knott_10
+Decoration/Obstacle_placable_Candy_1
+Decoration/Obstacle_placable_Candy_2
+Decoration/Obstacle_placable_Candy_3
+Decoration/Obstacle_placable_Candy_4
+Decoration/Obstacle_placable_Candy_5
+Decoration/Obstacle_placable_Candy_6
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_castle_undof
+Structures/Structure_castle_undof1
+Structures/Structure_castle_undof2
+Structures/Structure_castle_undof3
+Structures/Structure_castle_undof4
+Structures/Structure_castle_undof5
+Structures/Structure_castle_undof6
+Structures/Structure_bakery
+Structures/Structure_amalgamator
+Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
+Structures/Structure_jukebox_2
+Structures/Structure_jukebox_dream
+Structures/Structure_bass
+Structures/Structure_masher
+Structures/Structure_crafter
+Structures/Structure_knottmaker1
+Structures/Structure_knottmaker2
+Structures/Structure_knottmaker3
+Structures/Structure_knottmaker4
+Structures/Structure_timemachine
+Structures/Structure_stargazer
 -
 deco_paths:
 EM_path1
