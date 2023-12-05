@@ -1,6 +1,6 @@
 candyuhidk12
 
-monster_spurrit_desert entity Monsters/Monster_spurrit2
+monster_spurrit_desert entity-d Monsters/Monster_spurrit2
 
 monster_test entity Monsters/Monster_test
 
