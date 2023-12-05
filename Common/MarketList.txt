@@ -89,7 +89,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -295,7 +294,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -481,7 +479,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -616,7 +613,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -744,7 +740,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -897,7 +892,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -1075,7 +1069,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -1240,7 +1233,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -1391,7 +1383,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -1537,7 +1528,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
@@ -1620,7 +1610,6 @@ Structures/Structure_bakery
 Structures/Structure_amalgamator
 Structures/Structure_amalgamator_city
 Structures/Structure_jukebox
-Structures/Structure_jukebox_2
 Structures/Structure_jukebox_dream
 Structures/Structure_bass
 Structures/Structure_masher
