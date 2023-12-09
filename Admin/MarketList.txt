@@ -218,6 +218,8 @@ Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
 Monsters/Monster_punkleton_young
+Monsters/Monster_load coins=1
+Monsters/Monster_yool coins=1
 Monsters/Monster_percFrog coins=1
 -
 monsters_celestials:
