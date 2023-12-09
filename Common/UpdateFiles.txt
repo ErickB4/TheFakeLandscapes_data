@@ -1,5 +1,7 @@
 candyuhidk12
 
+monster_marshflamo entity Monsters/Monster_dumshflamo
+
 monster_test entity Monsters/Monster_test
 
 monster_rarepot entity Monsters/Monster_rarepot

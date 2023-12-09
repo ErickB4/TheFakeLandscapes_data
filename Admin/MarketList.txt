@@ -988,6 +988,7 @@ Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
+Monsters/Monster_dumshflamo coins=1
 Monsters/Monster_koodahcane
 Monsters/Monster_gobstomper
 Monsters/Monster_thrumble_undof
