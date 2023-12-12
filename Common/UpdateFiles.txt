@@ -1,6 +1,6 @@
 candyuhidk12
 
-monster_marshflamo entity Monsters/Monster_testflamo
+monster_marshflamo entity Monsters/Monster_marshflamo_rare
 
 monster_test entity Monsters/Monster_test
 
