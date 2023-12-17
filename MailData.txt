@@ -8,7 +8,6 @@ test_hahahhaha;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Test;test;icon@gift;URL_LINK
 
 ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10
 
-ToPeter;GJOXHYJkchOTMeTakVVbcSTFYZchYaBWggaTG;To Peter;Hello\n\n;url@https://yt3.googleusercontent.com/vRUzjJUZV10LyTPZxqgIC_s2F1vEQXK9LyXyNehrqaX1BOqRoahmpSMiF5Uf9jDfc1-p25VY=s176-c-k-c0x00ffffff-no-rj;diamonds@10000000;Vortex@10000000;Relic@10000000;foodB@10000000;food@10000000;coins@100000000;stars@10000000;Monsters/Monster_jamboree_undof@10
 
 PedroGuntly;DOMFZJGGCMeeTMeSbVfMKZMGKTXHTMYA;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
