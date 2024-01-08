@@ -23,9 +23,9 @@ JoboBirthday;everyone-d;Jodel Available for 50% off!;Jobo, the voice behind Jode
 
 mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
 
-DeimosBox;FZLaWMHCMDYZRABINDFAOYVTcPZKDbSU;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1
+DeimosBox;FZLaWMHCMDYZRABINDFAOYVTcPZKDbSU;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2
 
-mpgtest;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1
+mpgtest;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2
 
 ThatOneBean;VQTeZOeCMQgHKaZeJVLMDgPYMIOQfVWdS;To That One Bean;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600
 
