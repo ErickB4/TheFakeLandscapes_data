@@ -25,7 +25,7 @@ mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome t
 
 DeimosBox;FZLaWMHCMDYZRABINDFAOYVTcPZKDbSU;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2@1
 
-mpgtest;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2
+mpgtest;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2@10
 
 ThatOneBean;VQTeZOeCMQgHKaZeJVLMDgPYMIOQfVWdS;To That One Bean;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600
 
