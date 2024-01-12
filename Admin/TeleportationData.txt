@@ -84,6 +84,7 @@ Monsters/Monster_rootitoot= 0
 Monsters/Monster_flootfly= 0
 Monsters/Monster_spurrit_desert= 0
 Monsters/Monster_spurrit= 0
+Monsters/Monster_trox= 0
 Monsters/VOIDCORN_dream=Monsters/Monster_furcorn 0
 ;
 Organs 43200 10
@@ -133,14 +134,13 @@ Monsters/Monster_noggin_meduza= 0
 Monsters/Monster_pummel_meduza= 0
 ;
 Calamity 86400 17
-Monsters/Monster_varrow=Monsters/Monster_varrow 20
-Monsters/Monster_banno=Monsters/Monster_banno 20
-Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 20
-Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 20
-Monsters/Monster_pummel_young=Monsters/Monster_pummel 20
+Monsters/Monster_varrow=Monsters/Monster_varrow 17
+Monsters/Monster_banno=Monsters/Monster_banno 17
+Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 17
+Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 17
+Monsters/Monster_pummel_young=Monsters/Monster_pummel 17
 Monsters/Monster_blasoom=Monsters/Monster_blasoom 0
-Monsters/Monster_punkleton_young=Monsters/Monster_punkleton 20
-Monsters/Monster_banno_rare= 0
+Monsters/Monster_punkleton_young=Monsters/Monster_punkleton 17
 
 
 Monsters/Monster_stogg_undof= 0
@@ -169,4 +169,7 @@ Monsters/Monster_rootitoot_young=Monsters/Monster_deedge_dream 0
 Monsters/Monster_plixie=Monsters/Monster_ghazt_dream 0
 Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
 Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
+
+EgyptPipes 0 0
+Monsters/Monster_scaratar 0
 
