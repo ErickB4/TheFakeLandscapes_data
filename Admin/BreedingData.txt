@@ -8,7 +8,6 @@ Monsters/Monster_flootfly 70
 Monsters/Monster_oaktopus 70
 Monsters/Monster_oaktopus_rare 70 _rare
 Monsters/Monster_quibble 70
-Monsters/Monster_quibble_rare 70 _rare
 Monsters/Monster_dandidoo 70
 Monsters/Monster_wadee 65
 Monsters/Monster_likho 65
@@ -22,8 +21,8 @@ Monsters/Monster_dulsylvan_rare 35 _rare
 Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
-Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 99
-Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 99
+Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 5
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
@@ -119,35 +118,4 @@ Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claram
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 2
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 2
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 2
-;
-GM:
-Monsters/Monster_potbellyGM 85
-Monsters/Monster_quibbleGM 70
-Monsters/Monster_olga 35
 
-Monsters/Monster_olga=Monsters/Monster_potbellyGM+Monsters/Monster_quibbleGM 50
-;
-dream:
-Monsters/Monster_mammott_dream 35
-Monsters/Monster_deedge_dream 35
-Monsters/Monster_likho_dream 35
-Monsters/Monster_quibble_dream 35
-Monsters/Monster_stogg_dream 35
-Monsters/Monster_toejammer_dream 35
-Monsters/Monster_ghazt_dream 35
-Monsters/VOIDCORN_dream 35
-Monsters/Monster_dragong_dream 35
-;
-Desert:
-Monsters/Monster_scaratar 5
-Monsters/Monster_flootfly 35
-Monsters/Monster_furcorn 35
-Monsters/Monster_rootitoot 35
-Monsters/Monster_trox 35
-Monsters/Monster_spurrit_desert 10
-Monsters/Monster_bisonorus 35
-
-Monsters/Monster_scaratar=Monsters/Monster_furcorn+Monsters/Monster_trox 50
-Monsters/Monster_spurrit_desert=Monsters/Monster_bisonorus+Monsters/Monster_rootitoot 50
-;
-;

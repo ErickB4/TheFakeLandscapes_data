@@ -1,5 +1,9 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
+intro4;everyone;free moneys!;take the free moneys or else;icon@new;diamonds@750000000;foodB@750000000;food@750000000;coins@750000000;stars@750000000;Vortex@750000000;LVL@750000000;Relic@750000000
+
+
+
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
 
 Rock;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
@@ -11,7 +15,7 @@ ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;
 
 PedroGuntly;DOMFZJGGCMeeTMeSbVfMKZMGKTXHTMYA;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
-Kaww2;PeLGVTPgHNaHPHeIilDLccSNdKkceMZPZVBKQKc;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+Kaww;PeLGVTPgHNaHPHeIilDLccSNdKkceMZPZVBKQKc;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
 Fire;WFdOffBETLROGSZPJGmYOMLMadTOYGOTBANFcaY;Para FirePlayer;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
@@ -19,49 +23,25 @@ patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing n
 
 feastember;everyone;Happy Feastember!;Hey everyone! Feastember is upon us, and thus it's the perfect time to express how grateful we are for all of our players, and the massive amount of support and kind words we've recieved from the community. We couldn't do this without all of you, and rest assured that there will be more surprises around the bend! In the meantime, have a good time with your families (even if you don't celebrate thanksgiving) and take these fun goodies!;icon@thx;diamonds@75;stars@100;foodB@500;ITM_grain@15
 
-JoboBirthday;everyone-d;Jodel Available for 50% off!;Jobo, the voice behind Jodel, turned 20 today!\n Jodel is available 50% off on Candy Island for three days!;icon@discount
+JoboBirthday;everyone;Jodel Available for 50% off!;Jobo, the voice behind Jodel, turned 20 today!\n Jodel is available 50% off on Candy Island for three days!;icon@discount
 
 mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
 
-DeimosBox;QPBDMJMGEYKICWVVYOKYTUYMCH;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1
-
-mpgtest;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for Deimos Box;take it you moron (troll_spurrit);icon@bow;diamonds@69420666;stars@69420666;foodB@69420666;food@69420666;coins@69420666;Vortex@69420666;Monsters/Knott_special_rare@1;Monsters/Monster_banno_rare@1;Monsters/Monster_banno_rare_2@10
 
 ThatOneBean;VQTeZOeCMQgHKaZeJVLMDgPYMIOQfVWdS;To That One Bean;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600
 
-NathanGamesYT4;DPCLFNJAAOTILQEBPKEO;Stream stuff; Hi! I hope the stream is going well. Accept some diamonds and Baby Food. - RawZebra;icon@present;diamonds@200;foodB@8000
-
-mammott;HVLAMKBCIGVUETPSQPIJNE;To MSM BIT;I hope you are having fun! Here are some <color=yellow>Goods</color> - RawZebra;icon@present;diamonds@4000;Vortex@30
-
+NathanGamesYT;DPCLFNJAAOTILQEBPKEO;To NathanGames YT;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600;Monsters/Monster_olga@1
 
 MSMContent;VKAWWOIDPWNhQRTChMaSWVhKhJRALeZJAM;To MSMContent;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_pango@1
 
-Evolayersen;VCKJTFGAQJRJTHQJDCLBWGR;To Evolayersen;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@10000;Monsters/Monster_knife@1
-
-Vixgemu222222;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH ;To Vizgemu;Aboba - RawZebra;icon@gift;diamonds@6000
-
-asdasd2;bgKPmhNkBkTYGRHFgYEZHMlQCBcTVMLkNBdgJJA;Yes;Aboba - RawZebra;icon@gift;diamonds@6000
-
-Gnarlsguy;QUCYONOTIRZMVADUQDKZXQPUBZ;To Knurvingarls;I hope you are having fun! Here are some goods.\n Breed Cybop with Handmond to get Whimstlop! - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_cybop@1
-
-Alcala;MLIOKLOGRQRIOPQFKPEB;To Alcala;I hope you are having fun! Here are some goods. - RawZebra;icon@present;diamonds@1000;coins@500000
-
-ppopasa2ddd;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;fghfhk;fghjfhjfghj;icon@present;diamonds@1000
+ContestWinner_new_1;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
+ContestWinner_new_1;TLRQGNSPOEOGQKJCQEBF;Тимур;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
+ContestWinner_new_1;NRESTNNTJBSBEASBJOKAJI;Paint_Pong;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Knott_special@1
+ContestWinner_new_1;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Захар;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_plixie@1
+ContestWinner_new_1;FTHSKSRQLHJXBRBIDJVEUSOT;Тиаква;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
 
 
-stealDiamonds;YHHPHJXDPfQJUefVJHYcaUEUWUQGbCEf;No more diamonds for you!;Muhhahahahahahahah;icon@zebra;diamonds@-5
-
-PurePlays;YVBYbBMXAGbUJHBBcZMFcaYXTUFRNF;To Pure Plays;I hope you are having fun! Here are some goods. - RawZebra;icon@present;diamonds@7000;foodB@50000
-
-ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
-ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
-ContestWinner_new_2;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
-
-twat1;UIRRIBNYPJPUCTTVYLQDHAWFD;kys;speak up;url@https://cdn.discordapp.com/attachments/877304946842812446/1178494035288141925/Screenshot_20231012_224019_YouTube.png;diamonds@100
-
-MazzTom;ADJOIGRMQSKJJHHSRBJII;To Mazz Tom;Aboba - RawZebra;icon@present;diamonds@10000
-
-aga;fCdeOUUNLDcVGGZYLMLeIGdUdTXOJcDM;Aha;Pon - RawZebra;icon@gift;diamonds@30000
+aga;MPOERGFWUIRUBJQFTAOFDJU;Maskim;Pon - RawZebra;icon@gift;diamonds@10000
 
 
 reset;NRESTNNTJBSBEASBJOKAJI;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900

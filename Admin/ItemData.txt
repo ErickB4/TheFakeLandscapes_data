@@ -4,12 +4,11 @@
 ;
 Island_City: 1440 100
 Flower_red 33 flowers
-Flower_yellow 33 flowers
+Flower_yellow 34 flowers
 Flower_blue 33 flowers
 Fruit_apple 10 flowers
-Berries 10 flowers
 ;
-Island_EM: 60 150
+Island_EM: 150 160
 Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 15 flowers
@@ -18,7 +17,7 @@ Log_water 15 water,water_log Log
 Log 20 ground
 Mushroom_1 30 ground
 Mushroom_2 10 tree
-Lilly 5 lilly
+Lilly 4 lilly
 ;
 Island_Knottshurr: 60 60
 BlueLog 100 trees
@@ -40,21 +39,9 @@ Fruit_apple 100 fruits
 Fruit_orange 50 fruits
 Fruit_pear 10 fruits
 ;
-Island_TI: 20 40
-Dew 33 dewSpawn
-;
 Island_Organs: 40 40
 Bone 33 ground
 BloodCell_red 33 flying BloodCells
 BloodCell_white 33 flying BloodCells
-Virus 10 flying
-;
-Island_Desert: 30 88
-Fabric 60 ground
-Jewel 33 ground
-Goldegg 4 ground
-Relic 10 ground
-;
-CatBoi: 2 10
-Catfur 33 catfurSpawn
+Virus 3 flying
 ;

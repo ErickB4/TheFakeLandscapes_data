@@ -26,7 +26,7 @@
 1000 Monsters/Knott_3_rare-d 3 Log=30,Jewel=10,Metal=25,Relic=10 25 86400 15
 1000 Monsters/Knott_6_rare-d 6 Log=20,Jewel=40,Fabric=7,Bone=10,Relic=10 25 86400 15
 
-1000 Monsters/Knott_special_rare-d special Log=40,Jewel=40,Fabric=40,Metal=40,Relic=15 30 259200 15
+1000 Monsters/Knott_special_rare special Log=40,Jewel=40,Fabric=40,Metal=40,Relic=15 30 259200 15
 
 1000 Monsters/Monster_toejammer_rare 6 Relic=1 2 8 1
 
