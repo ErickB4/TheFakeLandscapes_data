@@ -53,7 +53,7 @@ desert_scene scene-d Desert2
 ti_scene scene-d TI
 gm_scene scene-d GM
 
-monster_quibblegm entity Monsters/Monster_quibblegm_2
+monster_quibblegm entity Monsters/Monster_quibblegm
 
 
 monster_clamble entity-d Monsters/Monster_clamble
