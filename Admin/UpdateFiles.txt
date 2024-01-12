@@ -48,8 +48,8 @@ desert_midi midi-d Desert
 desert_sound audio-d Desert
 monster_trox entity-d Monsters/Monster_trox
 
+desert2_scene scene Desert2
 
-desert_scene scene-d Desert2
 ti_scene scene-d TI
 gm_scene scene-d GM
 
