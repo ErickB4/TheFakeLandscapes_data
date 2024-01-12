@@ -4,8 +4,8 @@ Candy
 Desert
 EgyptPipes
 Organs
-Minigame_yapleap
 TI
+Minigame_YapLeap
 Calamity
 GM
 Knottshurr

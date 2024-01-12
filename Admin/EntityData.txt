@@ -107,8 +107,8 @@ Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_furcorn diamonds=40 plant@cold 28800 15 coins=1@80@coins=90 Natural furcorn,furcorn 4 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
-Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 5
-Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 5
+Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 0
+Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 0
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
@@ -247,7 +247,7 @@ Structures/Structure_castle_undof6 coins=0 0 1
 Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
 Structures/Structure_amalgamator diamonds=100 0 1
 Structures/Structure_amalgamator_city coins=10000 0 1
-Structures/Structure_jukebox coins=1000 0 1
+Structures/Structure_jukebox coins=1000 0 0
 Structures/Structure_jukebox_dream coins=10 0 1
 Structures/Structure_bass coins=100000 0 2
 
@@ -280,9 +280,27 @@ EM_path5 coins=175 0 0
 EM_path6 coins=175 0 0
 EM_path7 coins=175 0 0
 
+Candy_path1 coins=500 0 0
+Candy_path2 coins=500 0 0
+Candy_path3 coins=500 0 0
+Candy_path4 coins=500 0 0
+Candy_path5 coins=500 0 0
+Candy_path6 coins=500 0 0
+Candy_path7 coins=500 0 0
+Candy_path8 coins=500 0 0
+
 Organ_path1 coins=500 0 0
 Organ_path2 coins=500 0 0
 Organ_path3 coins=850 0 0
+
+Candy_path1 coins=500 0 0
+Candy_path2 coins=500 0 0
+Candy_path3 coins=500 0 0
+Candy_path4 coins=500 0 0
+Candy_path5 coins=500 0 0
+Candy_path6 coins=500 0 0
+Candy_path7 coins=500 0 0
+Candy_path8 coins=500 0 0
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 
@@ -368,14 +386,14 @@ Monsters/VOIDCORN_dream coins=0 nightmare 0 150 coins=0@120@coins=60 nightmare ,
 Monsters/Monster_dragong_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gnarls coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Pladdie coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Scaratar coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Uuduk coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Loodvigg coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Buzzinga coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Shlep coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Bonapetite coins=0 electricity 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 nightmare , 0 0

@@ -1,3 +1,2 @@
 monster_keytrus_rare entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
-monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
