@@ -113,7 +113,6 @@ Monsters/Knott_7= 1
 Monsters/Knott_8= 1
 Monsters/Knott_9= 1
 Monsters/Knott_10= 1
-Monsters/Knott_special= 1
 ;
 Meduza 0
 Monsters/Monster_whimstlop= 0
@@ -159,9 +158,6 @@ GM 86400 20
 Monsters/Monster_toejammer_young=Monsters/Monster_olga 20
 Monsters/Monster_potbelly_young=Monsters/Monster_potbellyGM 20
 Monsters/Monster_quibble_young=Monsters/Monster_quibbleGM 20
-Monsters/Monster_olga= 0
-Monsters/Monster_potbellyGM= 0
-Monsters/Monster_quibbleGM= 0
 ;
 dream 0 -999
 Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0
@@ -173,7 +169,14 @@ Monsters/Monster_rootitoot_young=Monsters/Monster_deedge_dream 0
 Monsters/Monster_plixie=Monsters/Monster_ghazt_dream 0
 Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
 Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
-
-EgyptPipes 0
-Monsters/Monster_scaratar 0
-
+;
+EgyptPipes 0 10
+Monsters/Monster_scaratar=Monsters/Scaratar 0
+Monsters/Monster_loodvigg=Monsters/Loodvigg 0
+Monsters/Monster_frondley_young=Monsters/Whimmzies 10
+Monsters/Monster_punkelton_young=Monsters/Buzzinga 10
+Monsters/Monster_noggin_young=Monsters/Congle 10
+Monsters/Monster_osstax_young=Monsters/Gnarls 10
+Monsters/Monster_reedling_young=Monsters/Krillby 10
+Monsters/Monster_clackula_young=Monsters/Uuduk 10
+Monsters/Monster_spunge_young=Monsters/Shlep 10

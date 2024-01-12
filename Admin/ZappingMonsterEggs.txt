@@ -1,30 +1,22 @@
 
 Maulch EM
-Monsters/Monster_potbelly 1
 ;
 Maulch City
 Structures/Structure_bakery 2
 Decoration/Decoration_test1 2
 ;
 Fleechwurm Candy
-Monsters/Monster_toejammer_undof 1
 ;
 Wubbox Candy
-Monsters/Monster_toejammer_undof 1
 ;
 Wubbox_rare Candy
-Monsters/Monster_toejammer_undof 1
 ;
 Wheezel Organs
-Monsters/Monster_handmond 1
 ;
 Knurv Organs
-Monsters/Monster_handmond 1
 ;
 Poewk Calamity
-Monsters/Monster_stogg_undof 1
 ;
 Pixolotl Calamity
-Monsters/Monster_pummel 1
 
 

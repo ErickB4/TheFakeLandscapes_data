@@ -32,4 +32,6 @@
 30 50000000
 31 90000000 Monsters/Monster_hornacle,Monsters/Monster_loodvigg,Monsters/Monster_blasoom,Monsters/Monster_torrt,Monsters/Monster_scaratar,Monsters/Monster_syncopite,Monsters/Monster_attmoz,Monsters/Monster_vhamp,Monsters/Monster_furnoss
 32 100000000
+33 110000000
+34 120000000
 1000 100000000  Monsters/Monster_hornacle,Monsters/Monster_loodvigg,Monsters/Monster_blasoom,Monsters/Monster_torrt,Monsters/Monster_scaratar,Monsters/Monster_syncopite,Monsters/Monster_attmoz,Monsters/Monster_vhamp,Monsters/Monster_furnoss

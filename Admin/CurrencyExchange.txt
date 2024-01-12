@@ -5,3 +5,4 @@ Lilly=1;diamonds=25
 Jewel=1;stars=10
 Vortex=1;diamonds=25
 Relic=1;diamonds=10
+Virus=100;diamonds=10
