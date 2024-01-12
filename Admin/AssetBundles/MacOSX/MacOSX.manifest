@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4114371969
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gm
+      Dependencies: {}
