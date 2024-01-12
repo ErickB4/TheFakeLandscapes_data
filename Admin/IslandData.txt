@@ -4,7 +4,6 @@ Candy 4 Complete NoZeppelin
 Knottshurr 10 Complete NoZeppelin
 Organs 12 Complete z
 Desert 10 Complete z
-Desert2 10 Complete z
 Calamity 20 Complete z
 GM 15 Incomplete z
 TI 0 Incomplete z
