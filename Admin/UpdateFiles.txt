@@ -1,69 +1,69 @@
 candyuhidk12
 
-monster_marshflamo entity Monsters/Monster_marshflamo_rare
+monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
-monster_test entity Monsters/Monster_test
+monster_test entity-d Monsters/Monster_test
 
-monster_rarepot entity Monsters/Monster_rarepot
+monster_rarepot entity-d Monsters/Monster_rarepot
 
-monster_load entity Monsters/Monster_load
+monster_load entity-d Monsters/Monster_load
 
-monster_young_yool entity Monsters/Monster_yool
+monster_young_yool entity-d Monsters/Monster_yool
 
-monster_wubbox_undof entity Monsters/Monster_wubbox_undof_2
+monster_wubbox_undof entity-d Monsters/Monster_wubbox_undof_2
 
-monster_noggin_rare_undof entity Monsters/Monster_noggin_rare_undof_2
+monster_noggin_rare_undof entity-d Monsters/Monster_noggin_rare_undof_2
 
-monster_knife entity Monsters/Monster_knife_2
+monster_knife entity-d Monsters/Monster_knife_2
 
-monster_bisonorus entity Monsters/Monster_bisonorus_2
+monster_bisonorus entity-d Monsters/Monster_bisonorus_2
 
-monster_deedge entity Monsters/Monster_deedge_2
+monster_deedge entity-d Monsters/Monster_deedge_2
 
-deedge entity Monsters/Monster_deedge_3
+deedge entity-d Monsters/Monster_deedge_3
 
 calamity_audio audio Calamity
 calamity_deedge audio Calamity
 
-monster_poewk entity Monsters/Monster_poewk_2
+monster_poewk entity-d Monsters/Monster_poewk_2
 
 calamity_poewk_sounds audio Calamity
 
-monster_denchuhs entity Monsters/Monster_denchuhs_2
+monster_denchuhs entity-d Monsters/Monster_denchuhs_2
 
 calamity_denchuhs_audio audio Calamity
 
-monster_clamble entity Monsters/Monster_clamble_2
+monster_clamble entity-d Monsters/Monster_clamble_2
 
 calamity_audio audio Calamity
 
 midi_update midi
 
-monster_banno_rare entity Monsters/Monster_banno_rare_2
-monster_varrow_rare entity Monsters/Monster_varrow_rare_2
+monster_banno_rare entity-d Monsters/Monster_banno_rare_2
+monster_varrow_rare entity-d Monsters/Monster_varrow_rare_2
 
-monster_pango entity Monsters/Monster_pango_2
+monster_pango entity-d Monsters/Monster_pango_2
 
 desert_midi midi-d Desert
 desert_sound audio-d Desert
-monster_trox entity-d Monsters/Monster_trox
+monster_trox entity-d-d Monsters/Monster_trox
 
 
 desert_scene scene-d Desert2
 ti_scene scene-d TI
 gm_scene scene-d GM
 
-monster_quibblegm entity Monsters/Monster_quibblegm
+monster_quibblegm entity-d Monsters/Monster_quibblegm
 
 
-monster_clamble entity-d Monsters/Monster_clamble
+monster_clamble entity-d-d Monsters/Monster_clamble
 desert scene-d Desert
 
 
 monsters_knott entities-d Knott_1@Monsters/Knott_1;Knott_2@Monsters/Knott_2;Knott_3@Monsters/Knott_3;Knott_4@Monsters/Knott_4;Knott_5@Monsters/Knott_5;Knott_6@Monsters/Knott_6;Knott_7@Monsters/Knott_7;Knott_8@Monsters/Knott_8;Knott_9@Monsters/Knott_9;Knott_10@Monsters/Knott_10;Knott_special@Monsters/Knott_special;
 monsters_knott_rare entities-d Knott_1_rare@Monsters/Knott_1_rare;Knott_2_rare@Monsters/Knott_2_rare;Knott_3_rare@Monsters/Knott_3_rare;Knott_4_rare@Monsters/Knott_4_rare;Knott_5_rare@Monsters/Knott_5_rare;Knott_6_rare@Monsters/Knott_6_rare;Knott_7_rare@Monsters/Knott_7_rare;Knott_8_rare@Monsters/Knott_8_rare;Knott_9_rare@Monsters/Knott_9_rare;Knott_10_rare@Monsters/Knott_10_rare;Knott_special_rare@Monsters/Knott_special_rare;
 entities_dream entities-d Monster_dragong_dream@Monsters/Monster_dragong_dream;Structure_jukebox_dream@Structures/Structure_jukebox_dream
-monster_cataliszt entity-d Monsters/Monster_cataliszt
+monster_cataliszt entity-d-d Monsters/Monster_cataliszt
 dreamaudio2 audio-d dream
 dream midi-d
 
