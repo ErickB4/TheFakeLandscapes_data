@@ -3,6 +3,7 @@ egyptpipes_scene scene-d EgyptPipes
 monster_clamble entity-d Monsters/Monster_clamble
 desert scene-d Desert
 
+monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
 monsters_knott entities-d Knott_1@Monsters/Knott_1;Knott_2@Monsters/Knott_2;Knott_3@Monsters/Knott_3;Knott_4@Monsters/Knott_4;Knott_5@Monsters/Knott_5;Knott_6@Monsters/Knott_6;Knott_7@Monsters/Knott_7;Knott_8@Monsters/Knott_8;Knott_9@Monsters/Knott_9;Knott_10@Monsters/Knott_10;Knott_special@Monsters/Knott_special;
 monsters_knott_rare entities-d Knott_1_rare@Monsters/Knott_1_rare;Knott_2_rare@Monsters/Knott_2_rare;Knott_3_rare@Monsters/Knott_3_rare;Knott_4_rare@Monsters/Knott_4_rare;Knott_5_rare@Monsters/Knott_5_rare;Knott_6_rare@Monsters/Knott_6_rare;Knott_7_rare@Monsters/Knott_7_rare;Knott_8_rare@Monsters/Knott_8_rare;Knott_9_rare@Monsters/Knott_9_rare;Knott_10_rare@Monsters/Knott_10_rare;Knott_special_rare@Monsters/Knott_special_rare;

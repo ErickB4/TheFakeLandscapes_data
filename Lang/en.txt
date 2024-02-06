@@ -597,6 +597,9 @@ Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are bel
 Monsters/Monster_marshflamo=Marshflamo
 Monsters/Monster_marshflamo_bio=Marshflamos are known to be some of the most warm hearted monsters out there- quite literally, given their molten gooey marshmallowey cores! As time goes on, Marshflamos age through their rapid life cycle, their internal heat toasting them to perfection, before they harden and set ablaze. Their crumbling black shell falls off and reveals a shining new exterior, pure and light as a cloud. As residents of the newly formed sugary refuge in the Pocket Dimension, from the disaster that destroyed the Monster World, Marshflamos work to keep their fellow monsters safe, while telling spooky stories around an ever toasty campfire. 
 
+Monsters/Monster_marshflamo_rare=Rare Marshflamo
+Monsters/Monster_marshflamo_rare_bio=Rare Marshflamo bio
+
 Monsters/Monster_brasscuit=Brasscuit
 Monsters/Monster_brasscuit_bio=Choccosour bio
 
