@@ -575,6 +575,9 @@ Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sin
 Monsters/Monster_thrumble_undof=Thrumble
 Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
 
+Monsters/Monster_thrumble_rare_undof=Rare Thrumble
+Monsters/Monster_thrumble_rare_undof_bio=Rare Thrumble bio
+
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
 Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
 

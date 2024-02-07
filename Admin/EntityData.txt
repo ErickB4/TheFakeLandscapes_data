@@ -218,7 +218,11 @@ Monsters/Monster_noggin_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240
 Monsters/Monster_noggin_rare_undof_2 diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r noggin_rare-o,noggin_rare-o 0 0
 
 Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural fwog-o,fwog-o 0 0
+
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural thrumble-o,thrumble-o 0 0
+
+Monsters/Monster_thrumble_rare_undof diamonds=300 earth-o@water-o@fire-o 94680 15 coins=12@60@coins=240 Natural-r spore_CDN_RARE,thrumble-o 0 0
+
 Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural phnagler-o,phnagler-o 0 0
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural stogg-o,stogg-o 0 0
 
