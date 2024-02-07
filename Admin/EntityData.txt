@@ -224,6 +224,9 @@ Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coi
 Monsters/Monster_thrumble_rare_undof diamonds=300 earth-o@water-o@fire-o 94680 15 coins=12@60@coins=240 Natural-r spore_CDN_RARE,thrumble-o 0 0
 
 Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural phnagler-o,phnagler-o 0 0
+
+Monsters/Monster_phangler_rare_undof diamonds=160 water@fire 72000 30 coins=2@80@coins=180 Natural-r spore_DN_RARE,phangler_rare 0 0
+
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural stogg-o,stogg-o 0 0
 
 Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gumtromp,gumtromp 0 0
