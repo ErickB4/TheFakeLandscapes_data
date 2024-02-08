@@ -97,6 +97,10 @@ Monsters/Monster_clackula_bio=Clackula bio
 #ADULT OFFICIAL DOUBLES#
 Monsters/Monster_furcorn=Furcorn
 Monsters/Monster_furcorn_bio=Furcorn bio
+
+Monsters/Special/Monster_bluecorn=Bluecorn
+Monsters/Special/Monster_bluecorn_bio=Bluecorn bio
+
 Monsters/Monster_dandidoo=Dandidoo
 Monsters/Monster_dandidoo_bio=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
 Monsters/Monster_oaktopus=Oaktopus

@@ -8,6 +8,8 @@ monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 
 monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 
+monster_bluecorn entity Monsters/Special/Monster_bluecorn
+
 monster_test entity-d Monsters/Monster_test
 
 monster_rarepot entity-d Monsters/Monster_rarepot
