@@ -242,9 +242,10 @@ Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60
 Monsters/Monster_gobstomper diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
 Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel,claramel 0 0 
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
+
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 
-Monsters/Monster_jamboree_undof diamonds=1000 anniversay-o 180000 35 coins=1@120@coins=60 Seasonal-r jamboree_rare,jamboree-o 0 0
+Monsters/Monster_jamboree_rare_undof diamonds=1000 anniversay-o 180000 35 coins=1@120@coins=60 Seasonal-r jamboree_rare,jamboree-o 0 0
 
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
 
