@@ -622,6 +622,9 @@ Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost
 Monsters/Monster_jamboree_undof=Jam Boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
+Monsters/Monster_jamboree_rare_undof=Rare Jam Boree
+Monsters/Monster_jamboree_rare_undof_bio=Ten whole years have passed. Many new faces have been added to the Oddball Orchestra by the Ten Monsters Ages.  In a distant dimension of one, the Monsters, clanging, meet their new guest -  Rare Jamboree!  With a Roman candle-cross and chocolate glaze he glitters in a clear day, though in the mist promised.  The Crown of Candlelight burns bright, and the monsters will have a thousand nights to celebrate.
+
 Monsters/Monster_ghazt_undof=Ghazt
 Monsters/Monster_ghazt_undof_bio=The extraordinary Ghazt only manifests itself when conditions are absolutely perfect. Imbued with the Ethereal power of Plasma, its sleek frame and ability to become intangible are ideal for slipping in and out of places unnoticed. However, these traits also make it vulnerable to accidental interdimensional travel. It plays well with the other Monsters, but just like a cat, it sometimes prefers to be alone... or in the company of others of its kind.
 
