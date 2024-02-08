@@ -6,7 +6,7 @@ monster_thrumble_rare_undof entity Monsters/Monster_thrumble_rare_undof
 
 monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 
-monster_jamboree_rare_undof entities Monster_deedge@Monsters/Monster_jamboree_rare_undof
+monster_jamboree_rare_undof entities Monster_deedge@Monsters/Monster_jamboree_rare_undof;
 
 monster_test entity-d Monsters/Monster_test
 
