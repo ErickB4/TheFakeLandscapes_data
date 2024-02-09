@@ -10,6 +10,8 @@ monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 
 Monster_whimstlop_rare entity Monsters/Monster_whimstlop_rare
 
+monster_bone_candy entity Monsters/Monster_bone_candy
+
 monster_bluecorn entity Monsters/Special/Monster_bluecorn
 
 monster_test entity-d Monsters/Monster_test
@@ -54,7 +56,7 @@ monster_varrow_rare entity-d Monsters/Monster_varrow_rare_2
 
 monster_pango entity-d Monsters/Monster_pango_2
 
-desert_midi midi-d Desert
+candy_midi midi Candy
 desert_sound audio-d Desert
 monster_trox entity-d-d Monsters/Monster_trox
 

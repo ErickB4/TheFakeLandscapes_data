@@ -463,6 +463,9 @@ Monsters/Monster_psychic_bio=Macrocranium bio
 Monsters/Monster_faerie=Chordyrid
 Monsters/Monster_faerie_bio=Chordyrid bio
 
+Monsters/Monster_bone_candy=<ref>Monsters/Monster_bone
+Monsters/Monster_bone_candy_bio=Amoniterium Candy bio
+
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
 
