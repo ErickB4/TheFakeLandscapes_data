@@ -155,6 +155,8 @@ Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@4320
 Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic,psychic 8 0
 Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s faerie,faerie 8 0
 
+Monsters/Monster_bone_candy diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
+
 Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural phangler,phangler 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Magical bridgit,bridgit 6 0
 Monsters/Monster_frondley diamonds=750 psychic@faerie@light 36000 50 coins=1@72@coins=300 Magical frondley,frondley 6 0
