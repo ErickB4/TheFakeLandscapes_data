@@ -165,6 +165,7 @@ Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=9
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
+Monsters/Monster_whimstlop_rare diamonds=225 organ 28800 14 coins=8@60@coins=100 Lost-r whimstlop_rare,whimstlop 6 0
 
 
 Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_1 0 0
