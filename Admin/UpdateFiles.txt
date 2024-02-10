@@ -14,6 +14,8 @@ monster_bone_candy entity Monsters/Monster_bone_candy
 
 monster_bluecorn entity Monsters/Special/Monster_bluecorn
 
+monster_fleechwurm_rare_undof entity Monsters/Monster_fleechwurm_rare_undof
+
 monster_test entity-d Monsters/Monster_test
 
 monster_rarepot entity-d Monsters/Monster_rarepot

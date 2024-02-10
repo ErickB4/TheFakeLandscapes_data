@@ -204,6 +204,9 @@ Monsters/Monster_poewk_2 coins=10000 electricity 0 10000000 diamonds=1,stars=1,s
 Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 3
 
 Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Fleechwurm-o 0 3
+
+Monsters/Monster_fleechwurm_rare_undof coins=200000 electricity 0 10000000 diamonds=2,stars=2,stars=2@43200@diamonds=4,stars=4,stars=2 Supernatural-r ,Fleechwurm-o 0 3
+
 Monsters/Monster_wubbox_undof coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox-o 0 3
 Monsters/Monster_wubbox_undof_2 coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox-o 0 3
 Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 diamonds=2,stars=2,stars=2@43200@diamonds=4,stars=4,stars=2 Supernatural-r ,Wubbox_rare-o 0 3

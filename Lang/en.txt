@@ -252,6 +252,10 @@ Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
 Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
 
+Monsters/Monster_fleechwurm_rare_undof=Rare Fleechwurm
+Monsters/Monster_fleechwurm_rare_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_rare_undof_awake=<ref>Monsters/Monster_fleechwurm_rare_undof
+Monsters/Monster_fleechwurm_rare_undof_awake_bio=Rare Fleechwurm Awake bio
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! This intreped explorer, now farther from home than ever, is happy to explore this strange and vibrant world. 

@@ -29,6 +29,12 @@ Monsters/Monster_jamboree_undof 1
 Monsters/Monster_knife 1
 Monsters/Monster_sprinklate 4
 ;
+Fleechwurm_rare Candy
+Monsters/Monster_ghazt_rare_undof 1
+Monsters/Monster_jamboree_rare_undof 1
+Monsters/Monster_knife_rare 1
+Monsters/Monster_sprinklate_rare 2
+;
 Wubbox Candy
 Monsters/Monster_toejammer_undof 1
 Monsters/Monster_kayna_undof 1
