@@ -16,6 +16,10 @@ monster_bluecorn entity Monsters/Special/Monster_bluecorn
 
 monster_fleechwurm_rare_undof entity Monsters/Monster_fleechwurm_rare_undof
 
+gm_scene_newest scene GM_new
+
+gm_scene_older scene GM_old
+
 monster_test entity-d Monsters/Monster_test
 
 monster_rarepot entity-d Monsters/Monster_rarepot

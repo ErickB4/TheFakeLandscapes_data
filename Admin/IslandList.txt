@@ -5,6 +5,8 @@ Organs
 TI
 Calamity
 GM
+GM_old
+GM_new
 Candy
 Knottshurr
 Meduza
